@@ -1,6 +1,6 @@
 {
   "name": "react-flatlist-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a react package to render a list of item",
   "scripts": {
     "test": "jest",
