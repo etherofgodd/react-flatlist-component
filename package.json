@@ -1,0 +1,41 @@
+{
+  "name": "react-flatlist-component",
+  "version": "1.0.0",
+  "description": "a react package to render a list of item",
+  "scripts": {
+    "test": "jest",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etherofgodd/react-flatlist.git"
+  },
+  "author": "etherofgodd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etherofgodd/react-flatlist/issues"
+  },
+  "homepage": "https://github.com/etherofgodd/react-flatlist#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.1",
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "@rollup/plugin-typescript": "^8.3.3",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^14.3.0",
+    "@types/jest": "^28.1.6",
+    "@types/react": "^18.0.15",
+    "jest": "^28.1.3",
+    "jest-environment-jsdom": "^28.1.3",
+    "react": "^18.2.0",
+    "rollup": "^2.77.0",
+    "rollup-plugin-dts": "^4.2.2",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-terser": "^7.0.2",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4"
+  },
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "types": "./dist/index.d.ts"
+}

@@ -1,0 +1,2 @@
+"use strict";function e(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}Object.defineProperty(exports,"__esModule",{value:!0});var t=e(require("react"));exports.FlatList=function({data:e,listEmptyComponent:r,renderItem:n}){if(Array.isArray(e)){const a=e.map(((e,t)=>n(e,t))),l=r;return a.length?t.default.createElement(t.default.Fragment,null,a):l()}return t.default.createElement("div",null)};
+//# sourceMappingURL=index.js.map
