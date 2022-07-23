@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/etherofgodd/react-flatlist.git"
+    "url": "https://github.com/etherofgodd/react-flatlist-component"
   },
   "author": "etherofgodd",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/etherofgodd/react-flatlist/issues"
+    "url": "https://github.com/etherofgodd/react-flatlist-component/issues"
   },
-  "homepage": "https://github.com/etherofgodd/react-flatlist#readme",
+  "homepage": "https://github.com/etherofgodd/react-flatlist-component#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.1",
     "@rollup/plugin-node-resolve": "^13.3.0",
